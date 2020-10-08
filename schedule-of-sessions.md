@@ -5,8 +5,8 @@
     * R
 
 * TBC - Wednesday Oct 14, 2020
-    * 
-    * Using `tbd()`
+    * __Kevin Jutras__ - showing Bayesian modelling in R using the `rethinking` package
+    * Using `base(list, rnorm, dnorm)`
     * R
 
 * TBC - Wednesday Oct 28, 2020
